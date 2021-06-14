@@ -29,5 +29,6 @@ The bot has a rather small range of commands currently, and you can view them be
   - Career path (Clubs played for)
   - Season Stats
   - Link to player
-  
+  <br>
+  You can see the usage of the command below. <br>
   <img src= "/Usage/search_player.gif" alt = "search_player">
