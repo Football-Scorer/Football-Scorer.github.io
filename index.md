@@ -61,4 +61,4 @@ The bot has a rather small range of commands currently, and you can view them be
     - Team news
 
   The usage of this command can be seen below. <br>
-  <img src = "/Usage/search_cllub.gif" alt = "search_player">
+  <img src = "/Usage/search_club.gif" alt = "search_player">
