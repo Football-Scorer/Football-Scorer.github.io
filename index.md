@@ -101,8 +101,8 @@ The bot has a rather small range of commands currently, and you can view them be
   On running this command, you will be prompted to choose the league from a list of options of:
     - Premier League (England)
     - La Liga/Premiera Division (Spain)
-    - Serie A (iTaly)
-    - 1. Bundesliga (Germany)
+    - Serie A (Italy)
+    - 1.Bundesliga (Germany)
     - Ligue 1 (France)
   
   The bot will then provide you with the table of the chosen league. Usage can be seen below:<br>
@@ -125,12 +125,11 @@ Now, for the most unique part of this bot, **Trivia**!
     - Player nationality
     - PLayer career path (Clubs played for, with dates)
 
-  You will have **30 seconds** to answer the question. The format is show below:
-    Command: `g:<space><answer>`
+  You will have **30 seconds** to answer the question. The format is show below:<br>
+    Command: `g:<space><answer>`<br>
     Example: `g: Messi`
     
-  You can either provide the full player name, or only the player's last name. If you can guess it before the timer, the timer stops and you are correct! Or else   
-  the timer ends, and the result is revealed.
+  You can either provide the full player name, or only the player's last name. If you can guess it before the timer, the timer stops and you are correct! Or else the timer ends, and the result is revealed.
   
   **Currently only 1 GTP can be called in 1 server. If there are multiple instances, you will be asked to choose if you want to delete the previous one or not.**
   
