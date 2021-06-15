@@ -140,4 +140,4 @@ Now, for the most unique part of this bot, **Trivia**!
 ## Quick links:
 
   - Support server: 
-  <img src="https://discordapp.com/api/guilds/842775701761687573/widget.png?style=banner4" alt="Support server link" href = "https://discord.gg/JC88MFmvG5">
+  <img src="https://discord.com/api/guilds/842775701761687573/widget.json" alt="Support server link" href = "https://discord.gg/JC88MFmvG5">
