@@ -137,3 +137,7 @@ Now, for the most unique part of this bot, **Trivia**!
   <img src = "/Usage/gtp.gif" alt = "GTP">
   <br><br>
     
+## Quick links:
+
+  - Support server: 
+  <iframe src="https://discord.com/widget?id=842775701761687573&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
