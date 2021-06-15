@@ -20,7 +20,7 @@ The bot is a complete guide and help to the modern footballing world. The bot ca
 
 The bot has a rather small range of commands currently, and you can view them below.
 
-- Search for a Football Player
+- Search for a **Football Player**
   
   Command: `!search_player <player_name>`
   Example: `!search_player Lionel Messi`
@@ -44,23 +44,97 @@ The bot has a rather small range of commands currently, and you can view them be
   <img src= "/Usage/search_player.gif" alt = "search_player">
  
 <br><br>
-- Search for a Football Clubs
+- Search for a **Football Club**
 
   Command: `!search_club <club_name>`
   Example: `!search_club FC Barcelona`
   
   This command can be used to find all data related to a Football club. The opening embed has 4 pages, containing:
    - Page 1
-    - Team Squad
+      - Team Squad
+    
    - Page 2
-    - Facts about the club
-    - Trophies won
-    - Top Goalscorers
-    - Top Assist providers
+      - Facts about the club
+      - Trophies won
+      - Top Goalscorers
+      - Top Assist providers
+    
    - Page 3
-    - Manager Info
+      - Manager Info
+    
    - Page 4
-    - Team news
+      - Team news
+   
+   The usage of this command can be seen below. <br>
+    <img src = "/Usage/search_club.gif" alt = "search_club">
+    <br><br>
+
+- Search for a **FIFA 21 card**
+
+  Command: `!fifa <player_name>`
+  Example: `!fifa Lionel Messi`
+  
+  This command can be used to find all data related to a FIFA 21 card. The opening embed has 2 pages, containing:
+   - Page 1
+      - Player Name
+      - Nationality
+      - Age
+      - Date of Birth
+      - Height
+      - Weight
+      - Positions Preferred
+  
+   - Page 2
+      - In-Game Stats
+      - Player Specialities
+      - Current team details
 
   The usage of this command can be seen below. <br>
-  <img src = "/Usage/search_club.gif" alt = "search_player">
+  <img src = "/Usage/fifa.gif" alt = "fifa">
+  <br><br>
+  
+- Search for the **Table of a particular league**
+
+  Command: `!table`
+  Usage: `!table`
+  
+  On running this command, you will be prompted to choose the league from a list of options of:
+    - Premier League (England)
+    - La Liga/Premiera Division (Spain)
+    - Serie A (iTaly)
+    - 1. Bundesliga (Germany)
+    - Ligue 1 (France)
+  
+  The bot will then provide you with the table of the chosen league. Usage can be seen below:<br>
+  <img src = "/Usage/tabe.gif" alt = "table">
+  <br><br>
+
+Now, for the most unique part of this bot, **Trivia**!
+
+- **Guess the player**
+
+  Command: `!gtp`
+  Usage: `!gtp`
+  
+  This command will give you an option to choose from:
+    - Top 5 Leagues: Premier League, Serie A, La Liga, Bundesliga and Ligue 1
+    - 7 Leagues: Premier League, Serie A, La Liga, Bundesliga, Ligue 1, Hyundai A-League (Australia), Indian Super League (India)
+
+  Once you have chosen the league you want the question from, the bot will come up with a question consisting of:
+    - Player height
+    - Player nationality
+    - PLayer career path (Clubs played for, with dates)
+
+  You will have **30 seconds** to answer the question. The format is show below:
+    Command: `g:<space><answer>`
+    Example: `g: Messi`
+    
+  You can either provide the full player name, or only the player's last name. If you can guess it before the timer, the timer stops and you are correct! Or else   
+  the timer ends, and the result is revealed.
+  
+  **Currently only 1 GTP can be called in 1 server. If there are multiple instances, you will be asked to choose if you want to delete the previous one or not.**
+  
+  An example of usage is given below:<br>
+  <img src = "/Usage/gtp.gif" alt = "GTP">
+  <br><br>
+    
