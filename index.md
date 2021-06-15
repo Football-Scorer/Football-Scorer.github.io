@@ -22,7 +22,7 @@ The bot has a rather small range of commands currently, and you can view them be
 
 - Search for a **Football Player**
   
-  Command: `!search_player <player_name>`
+  Command: `!search_player <player_name>`<br>
   Example: `!search_player Lionel Messi`
   
   This command is mainly used to help you search for a player. All the relative data of the player, including:
@@ -46,7 +46,7 @@ The bot has a rather small range of commands currently, and you can view them be
 <br><br>
 - Search for a **Football Club**
 
-  Command: `!search_club <club_name>`
+  Command: `!search_club <club_name>`<br>
   Example: `!search_club FC Barcelona`
   
   This command can be used to find all data related to a Football club. The opening embed has 4 pages, containing:
@@ -71,7 +71,7 @@ The bot has a rather small range of commands currently, and you can view them be
 
 - Search for a **FIFA 21 card**
 
-  Command: `!fifa <player_name>`
+  Command: `!fifa <player_name>`<br>
   Example: `!fifa Lionel Messi`
   
   This command can be used to find all data related to a FIFA 21 card. The opening embed has 2 pages, containing:
@@ -95,7 +95,7 @@ The bot has a rather small range of commands currently, and you can view them be
   
 - Search for the **Table of a particular league**
 
-  Command: `!table`
+  Command: `!table`<br>
   Usage: `!table`
   
   On running this command, you will be prompted to choose the league from a list of options of:
@@ -113,7 +113,7 @@ Now, for the most unique part of this bot, **Trivia**!
 
 - **Guess the player**
 
-  Command: `!gtp`
+  Command: `!gtp`<br>
   Usage: `!gtp`
   
   This command will give you an option to choose from:
