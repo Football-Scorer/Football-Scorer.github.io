@@ -13,8 +13,6 @@ The bot is a complete guide and help to the modern footballing world. The bot ca
 <a href="https://top.gg/bot/840483273226321920">
   <img src="https://top.gg/api/widget/840483273226321920.svg" alt="Football Scorer" inline = True/>
   </a>
-  
-<a href="https://discordbotlist.com/bots/840483273226321920"><img src="https://discordbotlist.com/api/v1/bots/840483273226321920/widget" inline = True></a>
 
 ## Commands
 
@@ -140,4 +138,14 @@ Now, for the most unique part of this bot, **Trivia**!
 ## Quick links:
 
   - Support server: 
-  <img src="https://discord.com/api/guilds/842775701761687573/widget.json" alt="Support server link" href = "https://discord.gg/JC88MFmvG5">
+  <iframe src="https://discord.com/widget?id=842775701761687573&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+  - Bot invite link:
+  <a href="https://top.gg/bot/840483273226321920">
+  <img src="https://top.gg/api/widget/840483273226321920.svg" alt="Football Scorer" inline = True/>
+  </a>
+  <a href="https://discordbotlist.com/bots/840483273226321920"><img src="https://discordbotlist.com/api/v1/bots/840483273226321920/widget" inline = True></a>
+  
+  <hr>
+  
+  <center>Bot and site are maintained by NP15#0010.<br>©Copyrights reserved.</center>
+  
