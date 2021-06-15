@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="Usage/favicon.ico">
+
 ## Overview of the bot
 
 The bot is a complete guide and help to the modern footballing world. The bot can help tend all your needs regarding your questions, or doubts about the football world as it stands. From club data, player data, to a fun trivia game, this bot is exactly what you need if you are a true football fan!
